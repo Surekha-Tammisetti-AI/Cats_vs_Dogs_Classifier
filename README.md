@@ -47,6 +47,6 @@ Easily customizable and suitable for binary classification tasks.
 4. streamlit run app.py
 5. Upload a cat or dog image
 6. The app will predict the output as cat or dog with prediction score.
-7. 
+
 
 
